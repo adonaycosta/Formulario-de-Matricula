@@ -19,7 +19,7 @@
 
   & [type="checkbox"]{
     all:unset;
-    position: relative;
+    position: absolute;
     inset: 0;
   }
 
