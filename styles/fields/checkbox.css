@@ -18,8 +18,8 @@
 
 
   & [type="checkbox"]{
-    all:unset;
     position: absolute;
+    all:unset;
     inset: 0;
   }
 
